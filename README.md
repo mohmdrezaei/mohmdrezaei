@@ -1,9 +1,7 @@
- Hi there 👋
+Hi there
 
-
-
-
-Here are some ideas to get you started:
+My name is Mohammad and I'm a Full Stack developer. I live in Dubai, United Arab Emirates
+I love making things and am always looking for new challenges. I go to the gym in my spare time
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
