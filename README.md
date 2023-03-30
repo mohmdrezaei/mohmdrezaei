@@ -1,5 +1,7 @@
 # Hi there
 
+<img src="https://user-images.githubusercontent.com/48680310/197483585-9c0e16ba-cda5-494d-a2ef-a90754eb2ac7.gif" width="40%" align="right" />
+
 My name is Mohammad and I'm a Full Stack developer. I live in Dubai, United Arab Emirates
 
 I love making things and am always looking for new challenges. I go to the gym in my spare time
