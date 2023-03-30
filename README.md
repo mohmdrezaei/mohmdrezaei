@@ -1,6 +1,6 @@
 # Hi there
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="40%" align="right" />
+<img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="40%" align="right" />
 
 My name is Mohammad and I'm a Full Stack developer. I live in Dubai, United Arab Emirates
 
