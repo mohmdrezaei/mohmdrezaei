@@ -12,7 +12,7 @@ I love making things and am always looking for new challenges. I go to the gym i
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,jquery,PHP,laravel,mysql&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,jquery,php,laravel,mysql&perline=3)](https://skillicons.dev)
 
 ### Find Me On Social Media
 <p align="left">
