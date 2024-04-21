@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="40%" align="right" />
 
-My name is Mohammad and I'm a Full Stack developer.I live in Dubai, United Arab Emirates
+My name is Mohammad and I'm a Full Stack developer
 
 I love making things and am always looking for new challenges. I go to the gym in my spare time
 
