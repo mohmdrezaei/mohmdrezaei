@@ -4,8 +4,7 @@ My name is Mohammad and I'm a Full Stack developer
 
 - 🔭 I’m currently working on Freelancing Projects
 - 📫 Email: mhwmdrz9@gmail.com 
-- ⚡ Now ... I'm ready to work with big teams.
-- <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300">
+- ⚡ Now ... I'm ready to work with big teams.  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300">
 
 ### Skills
 
