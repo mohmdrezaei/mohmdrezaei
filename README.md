@@ -1,7 +1,7 @@
 # Hi there
 
-<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="40%" align="right" />
 
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300">
 My name is Mohammad and I'm a Full Stack developer
 
 I love making things and am always looking for new challenges. I go to the gym in my spare time
