@@ -8,7 +8,7 @@ My name is Mohammad and I'm a Full Stack developer
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,jquery,php,laravel,mysql&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,next,jquery,php,mysql&perline=3)](https://skillicons.dev)
 
 ### Find Me On Social Media
 <p align="left">
