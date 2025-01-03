@@ -8,7 +8,7 @@ My name is Mohammad and I'm a Frontend developer
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,next,tailwind,jquery,typescript&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,next,tailwind,jquery,typescript&perline=4)](https://skillicons.dev)
 
 ### Find Me On Social Media
 <p align="left">
